@@ -3,7 +3,7 @@
 This is an finances management dashboard made with JavaScript, HTML and CSS.
 The main objective is the user add and delete finances releases (that are saved in the api), and inform him the balance of the month.
 
-<img alt="wallet-image" src="src/img/demo.png" height="500">
+<img alt="wallet-image" src="src/img/demo.png" height="450">
 
 ## Live application
 
